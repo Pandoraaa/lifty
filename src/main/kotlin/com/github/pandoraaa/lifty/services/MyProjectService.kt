@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.pandoraaa.lifty.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pandoraaa.lifty.MyBundle
 
 class MyProjectService(project: Project) {
 
